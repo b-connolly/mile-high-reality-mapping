@@ -1,0 +1,9 @@
+# Nothing here is generated at build time - there is no build. These are just
+# the things an editor or an OS leaves lying about.
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+.vscode/
+.idea/
